@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.obj{
+    display: inline-block;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.obj__res{
+    font-size: 40px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.total{
+    font-size: 40px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
